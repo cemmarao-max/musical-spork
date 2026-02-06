@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:-1:-1 tvg-id="Futura HD.br" tvg-name="FUTURA" tvg-logo="https://assistatv.me/images/86d14c286a88b017ee164ce351a31435.png" group-title="CANAIS | ABERTOS",FUTURA
+http://pygz.net:80/832117/960996/848801
+#EXTINF:-1:-1 tvg-id="Futura HD.br" tvg-name="FUTURA HD" tvg-logo="https://assistatv.me/images/86d14c286a88b017ee164ce351a31435.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://pygz.net:80/832117/960996/848802
+#EXTINF:-1:-1 tvg-id="" tvg-name="REDE MINAS HD" tvg-logo="https://assistatv.me/images/7a4c7463756c54838f29a4d6c1edcc69.png" group-title="CANAIS | ABERTOS",REDE MINAS HD
+http://pygz.net:80/832117/960996/848803
+#EXTINF:-1:-1 tvg-id="RedeTV! HD.br" tvg-name="REDE TV FHD" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" group-title="CANAIS | ABERTOS",REDE TV FHD
+http://pygz.net:80/832117/960996/848804
+#EXTINF:-1:-1 tvg-id="RedeTV! HD.br" tvg-name="REDE TV HD" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" group-title="CANAIS | ABERTOS",REDE TV HD
+http://pygz.net:80/832117/960996/848805
+#EXTINF:-1:-1 tvg-id="RedeTV! HD.br" tvg-name="RedeTV SD" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" group-title="CANAIS | ABERTOS",RedeTV SD
+http://pygz.net:80/832117/960996/848806
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="https://assistatv.me/images/a2799c8089b2a7523bcc8656042c6286.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
+http://pygz.net:80/832117/960996/848807
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="https://assistatv.me/images/64aa35d81da88f58226748149e9285f1.png" group-title="CANAIS | ABERTOS",TV PAMPA RS HD
+http://pygz.net:80/832117/960996/848808
+#EXTINF:-1:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="https://assistatv.me/images/4a42a7c7e1cee1b5afea16b7310e092c.png" group-title="CANAIS | ABERTOS",TVE FHD
+http://pygz.net:80/832117/960996/848809
+#EXTINF:-1:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="https://assistatv.me/images/4a42a7c7e1cee1b5afea16b7310e092c.png" group-title="CANAIS | ABERTOS",TVE HD
+http://pygz.net:80/832117/960996/848810
+#EXTINF:-1:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="https://assistatv.me/images/c6d40a969a0a19a369911dcbe9432e52.jpg" group-title="CANAIS | ABERTOS",Agro Canal
+http://pygz.net:80/832117/960996/848811
+#EXTINF:-1:-1 tvg-id="" tvg-name="AgroBrasil TV" tvg-logo="https://assistatv.me/images/faa0102c11afed3ebde0d80dba20a6cc.png" group-title="CANAIS | ABERTOS",AgroBrasil TV
+http://pygz.net:80/832117/960996/848812
+#EXTINF:-1:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://assistatv.me/images/4fe889022397bc870393545d655b8a74.png" group-title="CANAIS | ABERTOS",CANAL DO BOI
+http://pygz.net:80/832117/960996/848813
+#EXTINF:-1:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://assistatv.me/images/f99d0356e21c8fc5d4f0595701a1220d.png" group-title="CANAIS | ABERTOS",CANAL RURAL
+http://pygz.net:80/832117/960996/848814
+#EXTINF:-1:-1 tvg-id="" tvg-name="RIT TV HD" tvg-logo="https://assistatv.me/images/f510b037dc4c4c3a7e7485fe886ba3a5.png" group-title="CANAIS | ABERTOS",RIT TV HD
+http://pygz.net:80/832117/960996/848815
+#EXTINF:-1:-1 tvg-id="" tvg-name="Sabor & Arte HD" tvg-logo="https://assistatv.me/images/fc6718e8f893fe239a85842120e1f80f.png" group-title="CANAIS | ABERTOS",Sabor & Arte HD
+http://pygz.net:80/832117/960996/848816
+#EXTINF:-1:-1 tvg-id="" tvg-name="TERRA VIVA HD" tvg-logo="https://assistatv.me/images/559992f7652a1d0c206d4c0509f328d4.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
+http://pygz.net:80/832117/960996/848817
+#EXTINF:-1:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://assistatv.me/images/d691408403946af9da4ccf6e70ba316d.png" group-title="CANAIS | ABERTOS",TRAVEL BOX BRASIL HD
+http://pygz.net:80/832117/960996/848818
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV Camara FHD" tvg-logo="https://assistatv.me/images/857d9dd793ad37c098ce21273025f851.png" group-title="CANAIS | ABERTOS",TV Camara FHD
+http://pygz.net:80/832117/960996/848819
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="https://assistatv.me/images/857d9dd793ad37c098ce21273025f851.png" group-title="CANAIS | ABERTOS",TV Camara HD
+http://pygz.net:80/832117/960996/848820
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="https://assistatv.me/images/e940ab68d99af92722f0ca0caf5fb559.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+http://pygz.net:80/832117/960996/848821
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV Justica" tvg-logo="https://assistatv.me/images/dce8fc98854b6f9cd4379f5e4185b409.png" group-title="CANAIS | ABERTOS",TV Justica
+http://pygz.net:80/832117/960996/848822
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="https://assistatv.me/images/5c184078a3bb3e89fc5a965b372fd1cc.png" group-title="CANAIS | ABERTOS",TV Senado
+http://pygz.net:80/832117/960996/848823
+#EXTINF:-1:-1 tvg-id="Rede Amazônica Manaus HD.br" tvg-name="AM - GLOBO TV REDE AMAZONICA MANAUS FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA MANAUS FHD
+http://pygz.net:80/832117/960996/848836
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA MANAUS HD
+http://pygz.net:80/832117/960996/848837
+#EXTINF:-1:-1 tvg-id="Rede Amazônica Manaus HD.br" tvg-name="AM - GLOBO  TV REDE AMAZONICA MANAUS SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO  TV REDE AMAZONICA MANAUS SD
+http://pygz.net:80/832117/960996/848838
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA COARI FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA COARI FHD
+http://pygz.net:80/832117/960996/848839
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA COARI HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA COARI HD
+http://pygz.net:80/832117/960996/848840
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA COARI SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA COARI SD
+http://pygz.net:80/832117/960996/848841
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA HUMAITA FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA HUMAITA FHD
+http://pygz.net:80/832117/960996/848842
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA HUMAITA HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA HUMAITA HD
+http://pygz.net:80/832117/960996/848843
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA HUMAITA SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA HUMAITA SD
+http://pygz.net:80/832117/960996/848844
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA ITACOATIARA FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA ITACOATIARA FHD
+http://pygz.net:80/832117/960996/848845
+#EXTINF:-1:-1 tvg-id="tv.itacoatiara.br" tvg-name="AM - GLOBO TV REDE AMAZONICA ITACOATIARA HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA ITACOATIARA HD
+http://pygz.net:80/832117/960996/848846
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA ITACOATIARA SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA ITACOATIARA SD
+http://pygz.net:80/832117/960996/848847
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA MANACAPURU FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA MANACAPURU FHD
+http://pygz.net:80/832117/960996/848848
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA MANACAPURU HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA MANACAPURU HD
+http://pygz.net:80/832117/960996/848849
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZONICA MANACAPURU SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZONICA MANACAPURU SD
+http://pygz.net:80/832117/960996/848850
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZÔNICA PARINTINS FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZÔNICA PARINTINS FHD
+http://pygz.net:80/832117/960996/848851
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZÔNICA PARINTINS HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZÔNICA PARINTINS HD
+http://pygz.net:80/832117/960996/848852
+#EXTINF:-1:-1 tvg-id="" tvg-name="AM - GLOBO TV REDE AMAZÔNICA PARINTINS SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AM - GLOBO TV REDE AMAZÔNICA PARINTINS SD
+http://pygz.net:80/832117/960996/848853
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA BOA VISTA FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA BOA VISTA FHD
+http://pygz.net:80/832117/960996/848854
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA BOA VISTA HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA BOA VISTA HD
+http://pygz.net:80/832117/960996/848855
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA BOA VISTA SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA BOA VISTA SD
+http://pygz.net:80/832117/960996/848856
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS FHD
+http://pygz.net:80/832117/960996/848857
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS HD
+http://pygz.net:80/832117/960996/848858
+#EXTINF:-1:-1 tvg-id="" tvg-name="RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RR - GLOBO TV REDE AMAZÔNICA RORAINÓPOLIS SD
+http://pygz.net:80/832117/960996/848859
+#EXTINF:-1:-1 tvg-id="" tvg-name="AP - GLOBO TV REDE AMAZÔNICA MACAPÁ FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AP - GLOBO TV REDE AMAZÔNICA MACAPÁ FHD
+http://pygz.net:80/832117/960996/848860
+#EXTINF:-1:-1 tvg-id="" tvg-name="AP - GLOBO TV REDE AMAZÔNICA MACAPÁ HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AP - GLOBO TV REDE AMAZÔNICA MACAPÁ HD
+http://pygz.net:80/832117/960996/848861
+#EXTINF:-1:-1 tvg-id="" tvg-name="AP - GLOBO TV REDE AMAZÔNICA MACAPÁ SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AP - GLOBO TV REDE AMAZÔNICA MACAPÁ SD
+http://pygz.net:80/832117/960996/848862
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO FHD
+http://pygz.net:80/832117/960996/848863
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO HD
+http://pygz.net:80/832117/960996/848864
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA RIO BRANCO SD
+http://pygz.net:80/832117/960996/848865
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL FHD
+http://pygz.net:80/832117/960996/848866
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL HD
+http://pygz.net:80/832117/960996/848867
+#EXTINF:-1:-1 tvg-id="" tvg-name="AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",AC - GLOBO TV REDE AMAZÔNICA CRUZEIRO DO SUL SD
+http://pygz.net:80/832117/960996/848868
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO FHD
+http://pygz.net:80/832117/960996/848869
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO HD
+http://pygz.net:80/832117/960996/848870
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA PORTO VELHO SD
+http://pygz.net:80/832117/960996/848871
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES FHD
+http://pygz.net:80/832117/960996/848872
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES HD
+http://pygz.net:80/832117/960996/848873
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA ARIQUEMES SD
+http://pygz.net:80/832117/960996/848874
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV  REDE AMAZÔNICA CACOAL FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV  REDE AMAZÔNICA CACOAL FHD
+http://pygz.net:80/832117/960996/848875
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV  REDE AMAZÔNICA CACOAL HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV  REDE AMAZÔNICA CACOAL HD
+http://pygz.net:80/832117/960996/848876
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV  REDE AMAZÔNICA CACOAL SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV  REDE AMAZÔNICA CACOAL SD
+http://pygz.net:80/832117/960996/848877
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO REDE AMAZÔNICA JI-PARANA FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO REDE AMAZÔNICA JI-PARANA FHD
+http://pygz.net:80/832117/960996/848878
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO REDE AMAZÔNICA JI-PARANA HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO REDE AMAZÔNICA JI-PARANA HD
+http://pygz.net:80/832117/960996/848879
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO REDE AMAZÔNICA JI-PARANA SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO REDE AMAZÔNICA JI-PARANA SD
+http://pygz.net:80/832117/960996/848880
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA VILHENA FHD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA VILHENA FHD
+http://pygz.net:80/832117/960996/848881
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA VILHENA HD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA VILHENA HD
+http://pygz.net:80/832117/960996/848882
+#EXTINF:-1:-1 tvg-id="" tvg-name="RO - GLOBO TV REDE AMAZÔNICA VILHENA SD" tvg-logo="https://assistatv.me/images/94457913455f11630832350672ad1d08.png" group-title="CANAIS | GLOBO NORTE",RO - GLOBO TV REDE AMAZÔNICA VILHENA SD
+http://pygz.net:80/832117/960996/848883
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL BELÉM FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL BELÉM FHD
+http://pygz.net:80/832117/960996/848884
+#EXTINF:-1:-1 tvg-id="globo.belem.liberal.br" tvg-name="PA - GLOBO TV LIBERAL BELÉM HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL BELÉM HD
+http://pygz.net:80/832117/960996/848885
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL BELÉM SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL BELÉM SD
+http://pygz.net:80/832117/960996/848886
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - FHD GLOBO TV TAPAJOS SANTAREM FHD" tvg-logo="https://assistatv.me/images/afc20347c1651426c78e8976eca6f87b.png" group-title="CANAIS | GLOBO NORTE",PA - FHD GLOBO TV TAPAJOS SANTAREM FHD
+http://pygz.net:80/832117/960996/848887
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - FHD GLOBO TV TAPAJOS SANTAREM HD" tvg-logo="https://assistatv.me/images/afc20347c1651426c78e8976eca6f87b.png" group-title="CANAIS | GLOBO NORTE",PA - FHD GLOBO TV TAPAJOS SANTAREM HD
+http://pygz.net:80/832117/960996/848888
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - FHD GLOBO TV TAPAJOS SANTAREM SD" tvg-logo="https://assistatv.me/images/afc20347c1651426c78e8976eca6f87b.png" group-title="CANAIS | GLOBO NORTE",PA - FHD GLOBO TV TAPAJOS SANTAREM SD
+http://pygz.net:80/832117/960996/848889
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL REDENCAO FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL REDENCAO FHD
+http://pygz.net:80/832117/960996/848890
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL REDENCAO HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL REDENCAO HD
+http://pygz.net:80/832117/960996/848891
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL REDENCAO SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL REDENCAO SD
+http://pygz.net:80/832117/960996/848892
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL CASTANHAL FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL CASTANHAL FHD
+http://pygz.net:80/832117/960996/848893
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL CASTANHAL HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL CASTANHAL HD
+http://pygz.net:80/832117/960996/848894
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL CASTANHAL SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL CASTANHAL SD
+http://pygz.net:80/832117/960996/848895
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL ALTAMIRA FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL ALTAMIRA FHD
+http://pygz.net:80/832117/960996/848896
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL ALTAMIRA HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL ALTAMIRA HD
+http://pygz.net:80/832117/960996/848897
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL ALTAMIRA SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL ALTAMIRA SD
+http://pygz.net:80/832117/960996/848898
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL MARABA FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL MARABA FHD
+http://pygz.net:80/832117/960996/848899
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL MARABA HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL MARABA HD
+http://pygz.net:80/832117/960996/848900
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL MARABA SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL MARABA SD
+http://pygz.net:80/832117/960996/848901
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAGOMINAS FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAGOMINAS FHD
+http://pygz.net:80/832117/960996/848902
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAGOMINAS HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAGOMINAS HD
+http://pygz.net:80/832117/960996/848903
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAGOMINAS SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAGOMINAS SD
+http://pygz.net:80/832117/960996/848904
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAUAPEBAS FHD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAUAPEBAS FHD
+http://pygz.net:80/832117/960996/848905
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAUAPEBAS HD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAUAPEBAS HD
+http://pygz.net:80/832117/960996/848906
+#EXTINF:-1:-1 tvg-id="" tvg-name="PA - GLOBO TV LIBERAL PARAUAPEBAS SD" tvg-logo="https://assistatv.me/images/03bfe8eb6a5e7f8d7d7abd0af4fbf043.png" group-title="CANAIS | GLOBO NORTE",PA - GLOBO TV LIBERAL PARAUAPEBAS SD
+http://pygz.net:80/832117/960996/848907
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA PALMAS FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA PALMAS FHD
+http://pygz.net:80/832117/960996/848908
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA PALMAS HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA PALMAS HD
+http://pygz.net:80/832117/960996/848909
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA PALMAS SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA PALMAS SD
+http://pygz.net:80/832117/960996/848910
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA GURUPI FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA GURUPI FHD
+http://pygz.net:80/832117/960996/848911
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA GURUPI HD
+http://pygz.net:80/832117/960996/848912
+#EXTINF:-1:-1 tvg-id="" tvg-name="TO - GLOBO TV ANHANGUERA GURUPI SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",TO - GLOBO TV ANHANGUERA GURUPI SD
+http://pygz.net:80/832117/960996/848913
+#EXTINF:-1:-1 tvg-id="" tvg-name="Globo TV ANHANGUERA ARAGUAINA FHD - TO" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO NORTE",Globo TV ANHANGUERA ARAGUAINA FHD - TO
+http://pygz.net:80/832117/960996/848914
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV GLOBO RECIFE FHD - PE" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO NORDESTE",TV GLOBO RECIFE FHD - PE
+http://pygz.net:80/832117/960996/848915
+#EXTINF:-1:-1 tvg-id="Globo Recife.br" tvg-name="TV GLOBO RECIFE HD - PE" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO NORDESTE",TV GLOBO RECIFE HD - PE
+http://pygz.net:80/832117/960996/848916
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV GLOBO RECIFE SD - PE" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO NORDESTE",TV GLOBO RECIFE SD - PE
+http://pygz.net:80/832117/960996/848917
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV ASA BRANCA CARUARU FHD" tvg-logo="https://assistatv.me/images/193a4cdc00bfe4a309caf258df13019b.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV ASA BRANCA CARUARU FHD
+http://pygz.net:80/832117/960996/848918
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV ASA BRANCA CARUARU HD" tvg-logo="https://assistatv.me/images/193a4cdc00bfe4a309caf258df13019b.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV ASA BRANCA CARUARU HD
+http://pygz.net:80/832117/960996/848919
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV ASA BRANCA CARUARU SD" tvg-logo="https://assistatv.me/images/193a4cdc00bfe4a309caf258df13019b.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV ASA BRANCA CARUARU SD
+http://pygz.net:80/832117/960996/848920
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV GRANDE RIO PETROLINA FHD" tvg-logo="https://assistatv.me/images/06cf38fce181ae684de814e457acebc9.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV GRANDE RIO PETROLINA FHD
+http://pygz.net:80/832117/960996/848921
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV GRANDE RIO PETROLINA HD" tvg-logo="https://assistatv.me/images/06cf38fce181ae684de814e457acebc9.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV GRANDE RIO PETROLINA HD
+http://pygz.net:80/832117/960996/848922
+#EXTINF:-1:-1 tvg-id="" tvg-name="PE - GLOBO TV GRANDE RIO PETROLINA SD" tvg-logo="https://assistatv.me/images/06cf38fce181ae684de814e457acebc9.png" group-title="CANAIS | GLOBO NORDESTE",PE - GLOBO TV GRANDE RIO PETROLINA SD
+http://pygz.net:80/832117/960996/848923
+#EXTINF:-1:-1 tvg-id="Globo TV Bahia.br" tvg-name="BA - GLOBO TV BAHIA SALVADOR FHD" tvg-logo="https://assistatv.me/images/96b5ef322207d67c93899f6bbf79d8a7.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV BAHIA SALVADOR FHD
+http://pygz.net:80/832117/960996/848924
+#EXTINF:-1:-1 tvg-id="Globo TV Bahia.br" tvg-name="BA - GLOBO TV BAHIA SALVADOR HD" tvg-logo="https://assistatv.me/images/96b5ef322207d67c93899f6bbf79d8a7.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV BAHIA SALVADOR HD
+http://pygz.net:80/832117/960996/848925
+#EXTINF:-1:-1 tvg-id="Globo TV Bahia.br" tvg-name="BA - GLOBO TV BAHIA SALVADOR SD" tvg-logo="https://assistatv.me/images/96b5ef322207d67c93899f6bbf79d8a7.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV BAHIA SALVADOR SD
+http://pygz.net:80/832117/960996/848926
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SANTA CRUZ ITABUNA FHD" tvg-logo="https://assistatv.me/images/46bc5b826870db1934598eb6a516e756.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SANTA CRUZ ITABUNA FHD
+http://pygz.net:80/832117/960996/848927
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SANTA CRUZ ITABUNA HD" tvg-logo="https://assistatv.me/images/46bc5b826870db1934598eb6a516e756.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SANTA CRUZ ITABUNA HD
+http://pygz.net:80/832117/960996/848928
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SANTA CRUZ ITABUNA SD" tvg-logo="https://assistatv.me/images/46bc5b826870db1934598eb6a516e756.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SANTA CRUZ ITABUNA SD
+http://pygz.net:80/832117/960996/848929
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV OESTE BARREIRAS FHD" tvg-logo="https://assistatv.me/images/748a7a6f7ee00f524b28960d11b5b7ad.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV OESTE BARREIRAS FHD
+http://pygz.net:80/832117/960996/848930
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV OESTE BARREIRAS HD" tvg-logo="https://assistatv.me/images/748a7a6f7ee00f524b28960d11b5b7ad.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV OESTE BARREIRAS HD
+http://pygz.net:80/832117/960996/848931
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV OESTE BARREIRAS SD" tvg-logo="https://assistatv.me/images/748a7a6f7ee00f524b28960d11b5b7ad.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV OESTE BARREIRAS SD
+http://pygz.net:80/832117/960996/848932
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SÃO FRANCISCO JUAZEIRO FHD" tvg-logo="https://assistatv.me/images/56c361d3b5b534d40bb7da2deea4b774.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SÃO FRANCISCO JUAZEIRO FHD
+http://pygz.net:80/832117/960996/848933
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SÃO FRANCISCO JUAZEIRO HD" tvg-logo="https://assistatv.me/images/56c361d3b5b534d40bb7da2deea4b774.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SÃO FRANCISCO JUAZEIRO HD
+http://pygz.net:80/832117/960996/848934
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SÃO FRANCISCO JUAZEIRO SD" tvg-logo="https://assistatv.me/images/56c361d3b5b534d40bb7da2deea4b774.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SÃO FRANCISCO JUAZEIRO SD
+http://pygz.net:80/832117/960996/848935
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA FHD" tvg-logo="https://assistatv.me/images/290202a01e057b219386dc148e76aa4c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA FHD
+http://pygz.net:80/832117/960996/848936
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA HD" tvg-logo="https://assistatv.me/images/290202a01e057b219386dc148e76aa4c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA HD
+http://pygz.net:80/832117/960996/848937
+#EXTINF:-1:-1 tvg-id="tv.sudoeste.br" tvg-name="BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA SD" tvg-logo="https://assistatv.me/images/290202a01e057b219386dc148e76aa4c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUDOESTE VITORIA DA CONQUISTA SD
+http://pygz.net:80/832117/960996/848938
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SUBAÉ FEIRA DE SANTANA FHD" tvg-logo="https://assistatv.me/images/e6aad2ee2a01d863a6382bc6e0f3d50c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUBAÉ FEIRA DE SANTANA FHD
+http://pygz.net:80/832117/960996/848939
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SUBAÉ FEIRA DE SANTANA HD" tvg-logo="https://assistatv.me/images/e6aad2ee2a01d863a6382bc6e0f3d50c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUBAÉ FEIRA DE SANTANA HD
+http://pygz.net:80/832117/960996/848940
+#EXTINF:-1:-1 tvg-id="" tvg-name="BA - GLOBO TV SUBAÉ FEIRA DE SANTANA SD" tvg-logo="https://assistatv.me/images/e6aad2ee2a01d863a6382bc6e0f3d50c.png" group-title="CANAIS | GLOBO NORDESTE",BA - GLOBO TV SUBAÉ FEIRA DE SANTANA SD
+http://pygz.net:80/832117/960996/848941
+#EXTINF:-1:-1 tvg-id="" tvg-name="AL - GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://assistatv.me/images/e03f8c6a44d902205623dbbeb9ed10ef.png" group-title="CANAIS | GLOBO NORDESTE",AL - GLOBO TV GAZETA ALAGOAS FHD
+http://pygz.net:80/832117/960996/848942
+#EXTINF:-1:-1 tvg-id="" tvg-name="AL - GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://assistatv.me/images/e03f8c6a44d902205623dbbeb9ed10ef.png" group-title="CANAIS | GLOBO NORDESTE",AL - GLOBO TV GAZETA ALAGOAS HD
+http://pygz.net:80/832117/960996/848943
+#EXTINF:-1:-1 tvg-id="" tvg-name="AL - GLOBO TV GAZETA ALAGOAS SD" tvg-logo="https://assistatv.me/images/e03f8c6a44d902205623dbbeb9ed10ef.png" group-title="CANAIS | GLOBO NORDESTE",AL - GLOBO TV GAZETA ALAGOAS SD
+http://pygz.net:80/832117/960996/848944
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO CABO BRANCO JOÃO PESSOA FHD" tvg-logo="https://assistatv.me/images/e36bc3fa7644b9a49cb3ff17968017f2.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO CABO BRANCO JOÃO PESSOA FHD
+http://pygz.net:80/832117/960996/848945
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO CABO BRANCO JOÃO PESSOA HD" tvg-logo="https://assistatv.me/images/e36bc3fa7644b9a49cb3ff17968017f2.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO CABO BRANCO JOÃO PESSOA HD
+http://pygz.net:80/832117/960996/848946
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO CABO BRANCO JOÃO PESSOA SD" tvg-logo="https://assistatv.me/images/e36bc3fa7644b9a49cb3ff17968017f2.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO CABO BRANCO JOÃO PESSOA SD
+http://pygz.net:80/832117/960996/848947
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO TV PARAÍBA CAMPINA GRANDE FHD" tvg-logo="https://assistatv.me/images/bbc3477a8ac14f7c2359c81cf49d22a6.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO TV PARAÍBA CAMPINA GRANDE FHD
+http://pygz.net:80/832117/960996/848948
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO TV PARAÍBA CAMPINA GRANDE HD" tvg-logo="https://assistatv.me/images/bbc3477a8ac14f7c2359c81cf49d22a6.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO TV PARAÍBA CAMPINA GRANDE HD
+http://pygz.net:80/832117/960996/848949
+#EXTINF:-1:-1 tvg-id="" tvg-name="PB - GLOBO TV PARAÍBA CAMPINA GRANDE SD" tvg-logo="https://assistatv.me/images/bbc3477a8ac14f7c2359c81cf49d22a6.png" group-title="CANAIS | GLOBO NORDESTE",PB - GLOBO TV PARAÍBA CAMPINA GRANDE SD
+http://pygz.net:80/832117/960996/848950
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV ALVORADA FLORIANO FHD" tvg-logo="https://assistatv.me/images/3e357ddca4476908d61c657b1ed10262.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV ALVORADA FLORIANO FHD
+http://pygz.net:80/832117/960996/848951
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV ALVORADA FLORIANO HD" tvg-logo="https://assistatv.me/images/3e357ddca4476908d61c657b1ed10262.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV ALVORADA FLORIANO HD
+http://pygz.net:80/832117/960996/848952
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV ALVORADA FLORIANO SD" tvg-logo="https://assistatv.me/images/3e357ddca4476908d61c657b1ed10262.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV ALVORADA FLORIANO SD
+http://pygz.net:80/832117/960996/848953
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV CLUBE TERESINA FHD" tvg-logo="https://assistatv.me/images/4687fbbabe5dee176dc3bb0774368333.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV CLUBE TERESINA FHD
+http://pygz.net:80/832117/960996/848954
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV CLUBE TERESINA HD" tvg-logo="https://assistatv.me/images/4687fbbabe5dee176dc3bb0774368333.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV CLUBE TERESINA HD
+http://pygz.net:80/832117/960996/848955
+#EXTINF:-1:-1 tvg-id="" tvg-name="PI - GLOBO TV CLUBE TERESINA SD" tvg-logo="https://assistatv.me/images/4687fbbabe5dee176dc3bb0774368333.png" group-title="CANAIS | GLOBO NORDESTE",PI - GLOBO TV CLUBE TERESINA SD
+http://pygz.net:80/832117/960996/848956
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO TV INTERTV CABUGI NATAL FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO TV INTERTV CABUGI NATAL FHD
+http://pygz.net:80/832117/960996/848957
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO TV INTERTV CABUGI NATAL HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO TV INTERTV CABUGI NATAL HD
+http://pygz.net:80/832117/960996/848958
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO TV INTERTV CABUGI NATAL SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO TV INTERTV CABUGI NATAL SD
+http://pygz.net:80/832117/960996/848959
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ FHD
+http://pygz.net:80/832117/960996/848960
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ HD
+http://pygz.net:80/832117/960996/848961
+#EXTINF:-1:-1 tvg-id="" tvg-name="RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO NORDESTE",RN - GLOBO INTER TV COSTA BRANCA MOSSORÓ SD
+http://pygz.net:80/832117/960996/848962
+#EXTINF:-1:-1 tvg-id="" tvg-name="SE - GLOBO TV SERGIPE ARACAJU FHD" tvg-logo="https://assistatv.me/images/6ebd6e3087a7c75fe683dc40cc0f73b1.png" group-title="CANAIS | GLOBO NORDESTE",SE - GLOBO TV SERGIPE ARACAJU FHD
+http://pygz.net:80/832117/960996/848963
+#EXTINF:-1:-1 tvg-id="" tvg-name="SE - GLOBO TV SERGIPE ARACAJU HD" tvg-logo="https://assistatv.me/images/6ebd6e3087a7c75fe683dc40cc0f73b1.png" group-title="CANAIS | GLOBO NORDESTE",SE - GLOBO TV SERGIPE ARACAJU HD
+http://pygz.net:80/832117/960996/848964
+#EXTINF:-1:-1 tvg-id="" tvg-name="SE - GLOBO TV SERGIPE ARACAJU SD" tvg-logo="https://assistatv.me/images/6ebd6e3087a7c75fe683dc40cc0f73b1.png" group-title="CANAIS | GLOBO NORDESTE",SE - GLOBO TV SERGIPE ARACAJU SD
+http://pygz.net:80/832117/960996/848965
+#EXTINF:-1:-1 tvg-id="" tvg-name="CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE FHD" tvg-logo="https://assistatv.me/images/130189dbb30625a302215c4dfa7a69d9.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE FHD
+http://pygz.net:80/832117/960996/848966
+#EXTINF:-1:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE HD" tvg-logo="https://assistatv.me/images/130189dbb30625a302215c4dfa7a69d9.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE HD
+http://pygz.net:80/832117/960996/848967
+#EXTINF:-1:-1 tvg-id="" tvg-name="CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE SD" tvg-logo="https://assistatv.me/images/130189dbb30625a302215c4dfa7a69d9.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES CARIRI JUAZEIRO DO NORTE SD
+http://pygz.net:80/832117/960996/848968
+#EXTINF:-1:-1 tvg-id="" tvg-name="CE - GLOBO TV VERDES MARES FORTALEZA FHD" tvg-logo="https://assistatv.me/images/1923d2dba56a2393e1d1ddcedd3a6acb.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES FORTALEZA FHD
+http://pygz.net:80/832117/960996/848969
+#EXTINF:-1:-1 tvg-id="" tvg-name="CE - GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://assistatv.me/images/1923d2dba56a2393e1d1ddcedd3a6acb.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES FORTALEZA HD
+http://pygz.net:80/832117/960996/848970
+#EXTINF:-1:-1 tvg-id="" tvg-name="CE - GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="https://assistatv.me/images/1923d2dba56a2393e1d1ddcedd3a6acb.png" group-title="CANAIS | GLOBO NORDESTE",CE - GLOBO TV VERDES MARES FORTALEZA SD
+http://pygz.net:80/832117/960996/848971
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE BALSAS FHD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE BALSAS FHD
+http://pygz.net:80/832117/960996/848972
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE BALSAS HD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE BALSAS HD
+http://pygz.net:80/832117/960996/848973
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE BALSAS SD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE BALSAS SD
+http://pygz.net:80/832117/960996/848974
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE COCAIS FHD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE COCAIS FHD
+http://pygz.net:80/832117/960996/848975
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE COCAIS HD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE COCAIS HD
+http://pygz.net:80/832117/960996/848976
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE COCAIS SD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE COCAIS SD
+http://pygz.net:80/832117/960996/848977
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE IMPERATRIZ FHD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE IMPERATRIZ FHD
+http://pygz.net:80/832117/960996/848978
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE IMPERATRIZ HD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE IMPERATRIZ HD
+http://pygz.net:80/832117/960996/848979
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE IMPERATRIZ SD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE IMPERATRIZ SD
+http://pygz.net:80/832117/960996/848980
+#EXTINF:-1:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="MA - GLOBO TV MIRANTE SÃO LUÍS HD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE SÃO LUÍS HD
+http://pygz.net:80/832117/960996/848981
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE SÃO LUÍS FHD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE SÃO LUÍS FHD
+http://pygz.net:80/832117/960996/848982
+#EXTINF:-1:-1 tvg-id="" tvg-name="MA - GLOBO TV MIRANTE SÃO LUÍS SD" tvg-logo="https://assistatv.me/images/1867dd55f61919b2628e68e17b386247.png" group-title="CANAIS | GLOBO NORDESTE",MA - GLOBO TV MIRANTE SÃO LUÍS SD
+http://pygz.net:80/832117/960996/848983
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA CUIABA FHD
+http://pygz.net:80/832117/960996/848984
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA CUIABA HD
+http://pygz.net:80/832117/960996/848985
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA CUIABA SD
+http://pygz.net:80/832117/960996/848986
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS FHD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS FHD
+http://pygz.net:80/832117/960996/848987
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS FHD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS FHD
+http://pygz.net:80/832117/960996/848988
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS SD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA RONDONOPOLIS SD
+http://pygz.net:80/832117/960996/848989
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA SINOP FHD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA SINOP FHD
+http://pygz.net:80/832117/960996/848990
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA SINOP HD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA SINOP HD
+http://pygz.net:80/832117/960996/848991
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA SINOP SD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA SINOP SD
+http://pygz.net:80/832117/960996/848992
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA FHD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA FHD
+http://pygz.net:80/832117/960996/848993
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA HD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA HD
+http://pygz.net:80/832117/960996/848994
+#EXTINF:-1:-1 tvg-id="" tvg-name="MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA SD" tvg-logo="https://assistatv.me/images/daf869b6331c5eed570b5fae8107d941.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MT - GLOBO TV CENTRO AMERICA TANGARA DA SERRA SD
+http://pygz.net:80/832117/960996/848995
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA GOIÂNIA FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA GOIÂNIA FHD
+http://pygz.net:80/832117/960996/848996
+#EXTINF:-1:-1 tvg-id="Globo Anhanguera.br" tvg-name="GO - GLOBO TV ANHANGUERA GOIÂNIA HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA GOIÂNIA HD
+http://pygz.net:80/832117/960996/848997
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA GOIÂNIA SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA GOIÂNIA SD
+http://pygz.net:80/832117/960996/848998
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ANAPOLIS FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ANAPOLIS FHD
+http://pygz.net:80/832117/960996/848999
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ANAPOLIS HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ANAPOLIS HD
+http://pygz.net:80/832117/960996/849000
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ANAPOLIS SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ANAPOLIS SD
+http://pygz.net:80/832117/960996/849001
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA CATALÃO FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA CATALÃO FHD
+http://pygz.net:80/832117/960996/849002
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA CATALÃO HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA CATALÃO HD
+http://pygz.net:80/832117/960996/849003
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA CATALÃO SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA CATALÃO SD
+http://pygz.net:80/832117/960996/849004
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ITUMBIARA FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ITUMBIARA FHD
+http://pygz.net:80/832117/960996/849005
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ITUMBIARA HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ITUMBIARA HD
+http://pygz.net:80/832117/960996/849006
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA ITUMBIARA SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA ITUMBIARA SD
+http://pygz.net:80/832117/960996/849007
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA JATAI FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA JATAI FHD
+http://pygz.net:80/832117/960996/849008
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA JATAI HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA JATAI HD
+http://pygz.net:80/832117/960996/849009
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA JATAI SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA JATAI SD
+http://pygz.net:80/832117/960996/849010
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA LUZIANIA FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA LUZIANIA FHD
+http://pygz.net:80/832117/960996/849011
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA LUZIANIA HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA LUZIANIA HD
+http://pygz.net:80/832117/960996/849012
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA LUZIANIA SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA LUZIANIA SD
+http://pygz.net:80/832117/960996/849013
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA PORANGATU FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA PORANGATU FHD
+http://pygz.net:80/832117/960996/849014
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA PORANGATU HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA PORANGATU HD
+http://pygz.net:80/832117/960996/849015
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA PORANGATU SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA PORANGATU SD
+http://pygz.net:80/832117/960996/849016
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA RIO VERDE FHD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA RIO VERDE FHD
+http://pygz.net:80/832117/960996/849017
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA RIO VERDE HD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA RIO VERDE HD
+http://pygz.net:80/832117/960996/849018
+#EXTINF:-1:-1 tvg-id="" tvg-name="GO - GLOBO TV ANHANGUERA RIO VERDE SD" tvg-logo="https://assistatv.me/images/2bf5875afaaa8df18b50150ea62ddc93.png" group-title="CANAIS | GLOBO CENTRO-OESTE",GO - GLOBO TV ANHANGUERA RIO VERDE SD
+http://pygz.net:80/832117/960996/849019
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CORUMBA FHD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CORUMBA FHD
+http://pygz.net:80/832117/960996/849020
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CORUMBA HD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CORUMBA HD
+http://pygz.net:80/832117/960996/849021
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CORUMBA SD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CORUMBA SD
+http://pygz.net:80/832117/960996/849022
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CAMPO GRANDE FHD
+http://pygz.net:80/832117/960996/849023
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CAMPO GRANDE HD
+http://pygz.net:80/832117/960996/849024
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA CAMPO GRANDE SD
+http://pygz.net:80/832117/960996/849025
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA PONTA PORA FHD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA PONTA PORA FHD
+http://pygz.net:80/832117/960996/849026
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA PONTA PORA HD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA PONTA PORA HD
+http://pygz.net:80/832117/960996/849027
+#EXTINF:-1:-1 tvg-id="" tvg-name="MS - GLOBO TV MORENA PONTA PORA SD" tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="CANAIS | GLOBO CENTRO-OESTE",MS - GLOBO TV MORENA PONTA PORA SD
+http://pygz.net:80/832117/960996/849028
+#EXTINF:-1:-1 tvg-id="globo.brasilia.br" tvg-name="DF - GLOBO TV BRASILIA FHD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO CENTRO-OESTE",DF - GLOBO TV BRASILIA FHD
+http://pygz.net:80/832117/960996/849029
+#EXTINF:-1:-1 tvg-id="Globo Brasília HD.br" tvg-name="DF - GLOBO TV BRASILIA HD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO CENTRO-OESTE",DF - GLOBO TV BRASILIA HD
+http://pygz.net:80/832117/960996/849030
+#EXTINF:-1:-1 tvg-id="" tvg-name="DF - GLOBO TV BRASILIA SD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO CENTRO-OESTE",DF - GLOBO TV BRASILIA SD
+http://pygz.net:80/832117/960996/849031
+#EXTINF:-1:-1 tvg-id="tv.integracao.araxa.br" tvg-name="MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS FHD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS FHD
+http://pygz.net:80/832117/960996/849032
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS HD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS HD
+http://pygz.net:80/832117/960996/849033
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS SD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ARAXÁ / DIVINÓPOLIS SD
+http://pygz.net:80/832117/960996/849034
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO ITUIUTABA FHD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ITUIUTABA FHD
+http://pygz.net:80/832117/960996/849035
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO ITUIUTABA HD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ITUIUTABA HD
+http://pygz.net:80/832117/960996/849036
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO ITUIUTABA SD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO ITUIUTABA SD
+http://pygz.net:80/832117/960996/849037
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO INTER TV DOS VALES G. VALADARES FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV DOS VALES G. VALADARES FHD
+http://pygz.net:80/832117/960996/849038
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO INTER TV DOS VALES G. VALADARES HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV DOS VALES G. VALADARES HD
+http://pygz.net:80/832117/960996/849039
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO INTER TV DOS VALES G. VALADARES SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV DOS VALES G. VALADARES SD
+http://pygz.net:80/832117/960996/849040
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
+http://pygz.net:80/832117/960996/849041
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://pygz.net:80/832117/960996/849042
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD
+http://pygz.net:80/832117/960996/849043
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS FHD
+http://pygz.net:80/832117/960996/849044
+#EXTINF:-1:-1 tvg-id="Globo Minas.br" tvg-name="MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS HD
+http://pygz.net:80/832117/960996/849045
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO INTER TV GRANDE MINAS MONTES CLAROS SD
+http://pygz.net:80/832117/960996/849046
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA FHD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA FHD
+http://pygz.net:80/832117/960996/849047
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA HD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA HD
+http://pygz.net:80/832117/960996/849048
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA SD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERLÂNDIA SD
+http://pygz.net:80/832117/960996/849049
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERABA FHD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERABA FHD
+http://pygz.net:80/832117/960996/849050
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERABA HD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERABA HD
+http://pygz.net:80/832117/960996/849051
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO TV INTEGRAÇÃO UBERABA SD" tvg-logo="https://assistatv.me/images/66792f5cd972c5b5a6eed8d924a188e6.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO TV INTEGRAÇÃO UBERABA SD
+http://pygz.net:80/832117/960996/849052
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO EPTV SUL DE MINAS VARGINHA FHD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO EPTV SUL DE MINAS VARGINHA FHD
+http://pygz.net:80/832117/960996/849053
+#EXTINF:-1:-1 tvg-id="Globo Minas.br" tvg-name="MG - GLOBO EPTV SUL DE MINAS VARGINHA HD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO EPTV SUL DE MINAS VARGINHA HD
+http://pygz.net:80/832117/960996/849054
+#EXTINF:-1:-1 tvg-id="Globo Minas.br" tvg-name="MG - GLOBO EPTV SUL DE MINAS VARGINHA SD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO EPTV SUL DE MINAS VARGINHA SD
+http://pygz.net:80/832117/960996/849055
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV GAZETA NOROESTE COLATINA - ES" tvg-logo="https://assistatv.me/images/a4c20335b877a35ca32a61057cbae16e.png" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA NOROESTE COLATINA - ES
+http://pygz.net:80/832117/960996/849056
+#EXTINF:-1:-1 tvg-id="" tvg-name="ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM FHD" tvg-logo="https://assistatv.me/images/79b135add4a6500a30a0f0cc40ffd264.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM FHD
+http://pygz.net:80/832117/960996/849057
+#EXTINF:-1:-1 tvg-id="" tvg-name="ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM HD" tvg-logo="https://assistatv.me/images/79b135add4a6500a30a0f0cc40ffd264.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM HD
+http://pygz.net:80/832117/960996/849058
+#EXTINF:-1:-1 tvg-id="" tvg-name="ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM SD" tvg-logo="https://assistatv.me/images/79b135add4a6500a30a0f0cc40ffd264.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA SUL  CACHOEIRO DE ITAPEMIRIM SD
+http://pygz.net:80/832117/960996/849059
+#EXTINF:-1:-1 tvg-id="" tvg-name="TV GAZETA NORTE LINHARES - ES" tvg-logo="https://assistatv.me/images/d35c8da77cb828a579b59a54c2909fc0.png" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA NORTE LINHARES - ES
+http://pygz.net:80/832117/960996/849060
+#EXTINF:-1:-1 tvg-id="" tvg-name="ES - GLOBO GAZETA VITORIA FHD" tvg-logo="https://assistatv.me/images/0ed06e80788de709d405c7175085b983.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA VITORIA FHD
+http://pygz.net:80/832117/960996/849061
+#EXTINF:-1:-1 tvg-id="TV Gazeta HD.br" tvg-name="ES - GLOBO GAZETA VITORIA HD" tvg-logo="https://assistatv.me/images/0ed06e80788de709d405c7175085b983.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA VITORIA HD
+http://pygz.net:80/832117/960996/849062
+#EXTINF:-1:-1 tvg-id="" tvg-name="ES - GLOBO GAZETA VITORIA SD" tvg-logo="https://assistatv.me/images/0ed06e80788de709d405c7175085b983.png" group-title="CANAIS | GLOBO SUDESTE",ES - GLOBO GAZETA VITORIA SD
+http://pygz.net:80/832117/960996/849063
+#EXTINF:-1:-1 tvg-id="inter.alto.litoral.br" tvg-name="RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO FHD
+http://pygz.net:80/832117/960996/849064
+#EXTINF:-1:-1 tvg-id="inter.alto.litoral.br" tvg-name="RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO HD
+http://pygz.net:80/832117/960996/849065
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV ALTO LITORAL CABO FRIO SD
+http://pygz.net:80/832117/960996/849066
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES HD
+http://pygz.net:80/832117/960996/849067
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES FHD
+http://pygz.net:80/832117/960996/849068
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV PLANÍCIE CAMPOS DOS GOYTACAZES SD
+http://pygz.net:80/832117/960996/849069
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO FHD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO FHD
+http://pygz.net:80/832117/960996/849070
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO HD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO HD
+http://pygz.net:80/832117/960996/849071
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO SD" tvg-logo="https://assistatv.me/images/84031dee542d56a504b33a8c76d2d643.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO INTER TV SERRA MAR NOVA FRIBURGO SD
+http://pygz.net:80/832117/960996/849072
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO TV RIO SUL RESENDE FHD" tvg-logo="https://assistatv.me/images/60b840e57d3e702afe85c84c019b680b.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO TV RIO SUL RESENDE FHD
+http://pygz.net:80/832117/960996/849073
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO TV RIO SUL RESENDE HD" tvg-logo="https://assistatv.me/images/60b840e57d3e702afe85c84c019b680b.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO TV RIO SUL RESENDE HD
+http://pygz.net:80/832117/960996/849074
+#EXTINF:-1:-1 tvg-id="" tvg-name="RJ - GLOBO TV RIO SUL RESENDE SD" tvg-logo="https://assistatv.me/images/60b840e57d3e702afe85c84c019b680b.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO TV RIO SUL RESENDE SD
+http://pygz.net:80/832117/960996/849075
+#EXTINF:-1:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="SP - GLOBO TV TEM BAURU FHD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM BAURU FHD
+http://pygz.net:80/832117/960996/849076
+#EXTINF:-1:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="SP - GLOBO TV TEM BAURU HD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM BAURU HD
+http://pygz.net:80/832117/960996/849077
+#EXTINF:-1:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="SP - GLOBO TV TEM BAURU SD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM BAURU SD
+http://pygz.net:80/832117/960996/849078
+#EXTINF:-1:-1 tvg-id="eptv.campinas.br" tvg-name="SP - GLOBO EPTV CAMPINAS FHD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CAMPINAS FHD
+http://pygz.net:80/832117/960996/849079
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV CAMPINAS HD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CAMPINAS HD
+http://pygz.net:80/832117/960996/849080
+#EXTINF:-1:-1 tvg-id="eptv.campinas.br" tvg-name="SP - GLOBO EPTV CAMPINAS SD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CAMPINAS SD
+http://pygz.net:80/832117/960996/849081
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://assistatv.me/images/5857c59c7422949780d6973b8df04639.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV DIARIO MOGI DAS CRUZES FHD
+http://pygz.net:80/832117/960996/849082
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://assistatv.me/images/5857c59c7422949780d6973b8df04639.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV DIARIO MOGI DAS CRUZES HD
+http://pygz.net:80/832117/960996/849083
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV DIARIO MOGI DAS CRUZES SD" tvg-logo="https://assistatv.me/images/5857c59c7422949780d6973b8df04639.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV DIARIO MOGI DAS CRUZES SD
+http://pygz.net:80/832117/960996/849084
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM ITAPETININGA FHD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM ITAPETININGA FHD
+http://pygz.net:80/832117/960996/849085
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM ITAPETININGA HD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM ITAPETININGA HD
+http://pygz.net:80/832117/960996/849086
+#EXTINF:-1:-1 tvg-id="tv.tem.itapetininga.br" tvg-name="SP - GLOBO TV TEM ITAPETININGA SD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM ITAPETININGA SD
+http://pygz.net:80/832117/960996/849087
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE FHD" tvg-logo="https://assistatv.me/images/ecb74d5c05ad854aeee8cd23b53e59a6.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE FHD
+http://pygz.net:80/832117/960996/849088
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE HD" tvg-logo="https://assistatv.me/images/ecb74d5c05ad854aeee8cd23b53e59a6.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE HD
+http://pygz.net:80/832117/960996/849089
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE SD" tvg-logo="https://assistatv.me/images/ecb74d5c05ad854aeee8cd23b53e59a6.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE SD
+http://pygz.net:80/832117/960996/849090
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV CENTRAL SÃO CARLOS FHD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CENTRAL SÃO CARLOS FHD
+http://pygz.net:80/832117/960996/849091
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV CENTRAL SÃO CARLOS HD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CENTRAL SÃO CARLOS HD
+http://pygz.net:80/832117/960996/849092
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV CENTRAL SÃO CARLOS SD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV CENTRAL SÃO CARLOS SD
+http://pygz.net:80/832117/960996/849093
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV RIBEIRÃO PRETO FHD
+http://pygz.net:80/832117/960996/849094
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV RIBEIRÃO PRETO HD
+http://pygz.net:80/832117/960996/849095
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://assistatv.me/images/46e1ec21565f03b0ff414b8407b66de7.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO EPTV RIBEIRÃO PRETO SD
+http://pygz.net:80/832117/960996/849096
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TRIBUNA SANTOS FHD" tvg-logo="https://assistatv.me/images/af0d7e3258d122af1bd5f2e048453246.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TRIBUNA SANTOS FHD
+http://pygz.net:80/832117/960996/849097
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TRIBUNA SANTOS HD" tvg-logo="https://assistatv.me/images/af0d7e3258d122af1bd5f2e048453246.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TRIBUNA SANTOS HD
+http://pygz.net:80/832117/960996/849098
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TRIBUNA SANTOS SD" tvg-logo="https://assistatv.me/images/af0d7e3258d122af1bd5f2e048453246.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TRIBUNA SANTOS SD
+http://pygz.net:80/832117/960996/849099
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SOROCABA  FHD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SOROCABA  FHD
+http://pygz.net:80/832117/960996/849100
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SOROCABA  HD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SOROCABA  HD
+http://pygz.net:80/832117/960996/849101
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SOROCABA  SD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SOROCABA  SD
+http://pygz.net:80/832117/960996/849102
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
+http://pygz.net:80/832117/960996/849103
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://pygz.net:80/832117/960996/849104
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD" tvg-logo="https://assistatv.me/images/819bc8badec5f02ba6a0949148b25f65.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD
+http://pygz.net:80/832117/960996/849105
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS FHD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS FHD
+http://pygz.net:80/832117/960996/849106
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS HD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS HD
+http://pygz.net:80/832117/960996/849107
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS SD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA SÃO JOSÉ DOS CAMPOS SD
+http://pygz.net:80/832117/960996/849108
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA TAUBATÉ FHD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA TAUBATÉ FHD
+http://pygz.net:80/832117/960996/849109
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA TAUBATÉ HD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA TAUBATÉ HD
+http://pygz.net:80/832117/960996/849110
+#EXTINF:-1:-1 tvg-id="" tvg-name="SP - GLOBO VANGUARDA TAUBATÉ SD" tvg-logo="https://assistatv.me/images/75f5d2b1c810188a7152b0f21eafb345.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO VANGUARDA TAUBATÉ SD
+http://pygz.net:80/832117/960996/849111
+#EXTINF:-1:-1 tvg-id="Globo Rio HD.br" tvg-name="RJ - GLOBO RJ FHD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO RJ FHD
+http://pygz.net:80/832117/960996/849112
+#EXTINF:-1:-1 tvg-id="Globo Rio HD.br" tvg-name="RJ - GLOBO RJ HD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO RJ HD
+http://pygz.net:80/832117/960996/849113
+#EXTINF:-1:-1 tvg-id="Globo Rio HD.br" tvg-name="RJ - GLOBO RJ SD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",RJ - GLOBO RJ SD
+http://pygz.net:80/832117/960996/849114
+#EXTINF:-1:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="SP - GLOBO SP FHD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO SP FHD
+http://pygz.net:80/832117/960996/849115
+#EXTINF:-1:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="SP - GLOBO SP HD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO SP HD
+http://pygz.net:80/832117/960996/849116
+#EXTINF:-1:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="SP - GLOBO SP SD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",SP - GLOBO SP SD
+http://pygz.net:80/832117/960996/849117
+#EXTINF:-1:-1 tvg-id="Globo Minas.br" tvg-name="MG - GLOBO MINAS BELO HORIZONTE FHD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO MINAS BELO HORIZONTE FHD
+http://pygz.net:80/832117/960996/849118
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO MINAS BELO HORIZONTE HD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO MINAS BELO HORIZONTE HD
+http://pygz.net:80/832117/960996/849119
+#EXTINF:-1:-1 tvg-id="" tvg-name="MG - GLOBO MINAS BELO HORIZONTE SD" tvg-logo="https://assistatv.me/images/a9eced1b8f6b0244d89eb881ff90d1dd.png" group-title="CANAIS | GLOBO SUDESTE",MG - GLOBO MINAS BELO HORIZONTE SD
+http://pygz.net:80/832117/960996/849120
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CASCAVEL FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CASCAVEL FHD
+http://pygz.net:80/832117/960996/849121
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CASCAVEL HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CASCAVEL HD
+http://pygz.net:80/832117/960996/849122
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CASCAVEL SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CASCAVEL SD
+http://pygz.net:80/832117/960996/849123
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CURITIBA FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CURITIBA FHD
+http://pygz.net:80/832117/960996/849124
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CURITIBA HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CURITIBA HD
+http://pygz.net:80/832117/960996/849125
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC CURITIBA SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC CURITIBA SD
+http://pygz.net:80/832117/960996/849126
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC FOZ DO IGUAÇU FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC FOZ DO IGUAÇU FHD
+http://pygz.net:80/832117/960996/849127
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC FOZ DO IGUAÇU HD
+http://pygz.net:80/832117/960996/849128
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC FOZ DO IGUAÇU SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC FOZ DO IGUAÇU SD
+http://pygz.net:80/832117/960996/849129
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC GUARAPUAVA FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC GUARAPUAVA FHD
+http://pygz.net:80/832117/960996/849130
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC GUARAPUAVA HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC GUARAPUAVA HD
+http://pygz.net:80/832117/960996/849131
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC GUARAPUAVA SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC GUARAPUAVA SD
+http://pygz.net:80/832117/960996/849132
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC LONDRINA FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC LONDRINA FHD
+http://pygz.net:80/832117/960996/849133
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC LONDRINA HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC LONDRINA HD
+http://pygz.net:80/832117/960996/849134
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC LONDRINA SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC LONDRINA SD
+http://pygz.net:80/832117/960996/849135
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC MARINGA FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC MARINGA FHD
+http://pygz.net:80/832117/960996/849136
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC MARINGA HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC MARINGA HD
+http://pygz.net:80/832117/960996/849137
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC MARINGA SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC MARINGA SD
+http://pygz.net:80/832117/960996/849138
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PARANAVAÍ FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PARANAVAÍ FHD
+http://pygz.net:80/832117/960996/849139
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PARANAVAÍ HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PARANAVAÍ HD
+http://pygz.net:80/832117/960996/849140
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PARANAVAÍ SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PARANAVAÍ SD
+http://pygz.net:80/832117/960996/849141
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PONTA GROSSA FHD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PONTA GROSSA FHD
+http://pygz.net:80/832117/960996/849142
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PONTA GROSSA HD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PONTA GROSSA HD
+http://pygz.net:80/832117/960996/849143
+#EXTINF:-1:-1 tvg-id="" tvg-name="PR - GLOBO RPC PONTA GROSSA SD" tvg-logo="https://assistatv.me/images/802ba009c50d63a45633b7d79353baf0.png" group-title="CANAIS | GLOBO SUL",PR - GLOBO RPC PONTA GROSSA SD
+http://pygz.net:80/832117/960996/849144
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC BLUMENAU FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC BLUMENAU FHD
+http://pygz.net:80/832117/960996/849145
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC BLUMENAU HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC BLUMENAU HD
+http://pygz.net:80/832117/960996/849146
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC BLUMENAU SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC BLUMENAU SD
+http://pygz.net:80/832117/960996/849147
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA FHD
+http://pygz.net:80/832117/960996/849148
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA HD
+http://pygz.net:80/832117/960996/849149
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CENTRO-OESTE JOAÇABA SD
+http://pygz.net:80/832117/960996/849150
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CHAPECO FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CHAPECO FHD
+http://pygz.net:80/832117/960996/849151
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CHAPECO HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CHAPECO HD
+http://pygz.net:80/832117/960996/849152
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC TV CHAPECO SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC TV CHAPECO SD
+http://pygz.net:80/832117/960996/849153
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NCS TV CRICIÚMA FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NCS TV CRICIÚMA FHD
+http://pygz.net:80/832117/960996/849154
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NCS TV CRICIÚMA HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NCS TV CRICIÚMA HD
+http://pygz.net:80/832117/960996/849155
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NCS TV CRICIÚMA SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NCS TV CRICIÚMA SD
+http://pygz.net:80/832117/960996/849156
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC FLORIANOPOLIS FHD
+http://pygz.net:80/832117/960996/849157
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC FLORIANOPOLIS HD
+http://pygz.net:80/832117/960996/849158
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC FLORIANOPOLIS SD
+http://pygz.net:80/832117/960996/849159
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC JOINVILLE FHD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC JOINVILLE FHD
+http://pygz.net:80/832117/960996/849160
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC JOINVILLE HD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC JOINVILLE HD
+http://pygz.net:80/832117/960996/849161
+#EXTINF:-1:-1 tvg-id="" tvg-name="SC - GLOBO NSC JOINVILLE SD" tvg-logo="https://assistatv.me/images/cb0fc4a03ddff14ff80f116d3c39525d.png" group-title="CANAIS | GLOBO SUL",SC - GLOBO NSC JOINVILLE SD
+http://pygz.net:80/832117/960996/849162
+#EXTINF:-1:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RS - GLOBO RBS TV PORTO ALEGRE FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV PORTO ALEGRE FHD
+http://pygz.net:80/832117/960996/849163
+#EXTINF:-1:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RS - GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV PORTO ALEGRE HD
+http://pygz.net:80/832117/960996/849164
+#EXTINF:-1:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RS - GLOBO RBS TV PORTO ALEGRE SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV PORTO ALEGRE SD
+http://pygz.net:80/832117/960996/849165
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CAXIAS DO SUL FHD
+http://pygz.net:80/832117/960996/849166
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CAXIAS DO SUL HD
+http://pygz.net:80/832117/960996/849167
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CAXIAS DO SUL SD
+http://pygz.net:80/832117/960996/849168
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PASSO FUNDO FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PASSO FUNDO FHD
+http://pygz.net:80/832117/960996/849169
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PASSO FUNDO HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PASSO FUNDO HD
+http://pygz.net:80/832117/960996/849170
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PASSO FUNDO SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PASSO FUNDO SD
+http://pygz.net:80/832117/960996/849171
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PELOTAS FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PELOTAS FHD
+http://pygz.net:80/832117/960996/849172
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PELOTAS HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PELOTAS HD
+http://pygz.net:80/832117/960996/849173
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS PELOTAS SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS PELOTAS SD
+http://pygz.net:80/832117/960996/849174
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV BAGÉ FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV BAGÉ FHD
+http://pygz.net:80/832117/960996/849175
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV BAGÉ HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV BAGÉ HD
+http://pygz.net:80/832117/960996/849176
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV BAGÉ SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV BAGÉ SD
+http://pygz.net:80/832117/960996/849177
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CRUZ ALTA FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CRUZ ALTA FHD
+http://pygz.net:80/832117/960996/849178
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CRUZ ALTA HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CRUZ ALTA HD
+http://pygz.net:80/832117/960996/849179
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV CRUZ ALTA SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV CRUZ ALTA SD
+http://pygz.net:80/832117/960996/849180
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV ERECHIM FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV ERECHIM FHD
+http://pygz.net:80/832117/960996/849181
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV ERECHIM HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV ERECHIM HD
+http://pygz.net:80/832117/960996/849182
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV ERECHIM SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV ERECHIM SD
+http://pygz.net:80/832117/960996/849183
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA MARIA FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA MARIA FHD
+http://pygz.net:80/832117/960996/849184
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA MARIA HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA MARIA HD
+http://pygz.net:80/832117/960996/849185
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA MARIA SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA MARIA SD
+http://pygz.net:80/832117/960996/849186
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL FHD
+http://pygz.net:80/832117/960996/849187
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL HD
+http://pygz.net:80/832117/960996/849188
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV DOS VALES SANTA CRUZ DO SUL SD
+http://pygz.net:80/832117/960996/849189
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA ROSA FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA ROSA FHD
+http://pygz.net:80/832117/960996/849190
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA ROSA HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA ROSA HD
+http://pygz.net:80/832117/960996/849191
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV SANTA ROSA SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV SANTA ROSA SD
+http://pygz.net:80/832117/960996/849192
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV URUGUAIANA FHD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV URUGUAIANA FHD
+http://pygz.net:80/832117/960996/849193
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV URUGUAIANA HD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV URUGUAIANA HD
+http://pygz.net:80/832117/960996/849194
+#EXTINF:-1:-1 tvg-id="" tvg-name="RS - GLOBO RBS TV URUGUAIANA SD" tvg-logo="https://assistatv.me/images/29e119d37b60d760683cfdced7159392.png" group-title="CANAIS | GLOBO SUL",RS - GLOBO RBS TV URUGUAIANA SD
+http://pygz.net:80/832117/960996/849195
